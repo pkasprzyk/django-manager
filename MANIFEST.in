@@ -1,0 +1,3 @@
+include versioneer.py
+include manager/_version.py
+include django_manager/_version.py

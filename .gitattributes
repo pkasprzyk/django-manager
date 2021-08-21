@@ -1,0 +1,2 @@
+manager/_version.py export-subst
+django_manager/_version.py export-subst
